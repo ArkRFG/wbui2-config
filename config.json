@@ -18,7 +18,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Bienvenue",
-				"imageurl": "https://raw.githubusercontent.com/ArkRFG/wbui2-config/refs/heads/main/Logo_RFG_zoomed_30_fine_tuned.png",
+				"imageurl": "https://raw.githubusercontent.com/ArkRFG/wbui2-config/refs/heads/main/hero.jpg",
 				"content": [
 					{
 						"title": "Bienvenue sur le Cluster RFG PVE, Survivant!",
